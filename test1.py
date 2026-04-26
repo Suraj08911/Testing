@@ -1,1 +1,2 @@
-print("hello kya hai hai ")
+print("hello kya ha hai ")
+print("kayshe ho shabhi log ")
